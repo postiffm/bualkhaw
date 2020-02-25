@@ -1,0 +1,30 @@
+﻿<ScriptureText>
+  <Versification>4</Versification>
+  <CreatedWithPTW6>T</CreatedWithPTW6>
+  <Name>CFMBIV</Name>
+  <Encoding>65001</Encoding>
+  <Language>English</Language>
+  <DefaultFont>Times New Roman</DefaultFont>
+  <DefaultFontSize>14</DefaultFontSize>
+  <FileNamePostPart>CFMBIV.SFM</FileNamePostPart>
+  <FileNameBookNameForm>41MAT</FileNameBookNameForm>
+  <StyleSheet>usfm Hosanna.sty</StyleSheet>
+  <ChapterMarker>c</ChapterMarker>
+  <VerseMarker>v</VerseMarker>
+  <TranslationInfo>Standard::</TranslationInfo>
+  <FullName>Chin Bualkhaw </FullName>
+  <BiblicalTermsListSetting>Major::BiblicalTerms.xml</BiblicalTermsListSetting>
+  <Editable>T</Editable>
+  <NeedsEnglishLanguageFix>No</NeedsEnglishLanguageFix>
+  <NeedsPortugueseLanguageFix>No</NeedsPortugueseLanguageFix>
+  <InitialImportBooksDirectory>\\LANGUAGEVAULT\Scripting\1 SCRIPT ASSEMBLER\Feven\2 DBP\0 Current\Chin Bualkhaw N2CFMBIV</InitialImportBooksDirectory>
+  <Guid>60ccdbcb28891bf1380815db546d9ab8bebaca3f</Guid>
+  <SegmentOrder>a b c d e f g h i j k l m n o p q r s t u v w x y z aa bb cc dd ee ff gg hh ii jj kk ll mm nn oo pp qq rr ss tt uu vv ww xx yy zz</SegmentOrder>
+  <FileNamePrePart />
+  <FileNameChapterNumberForm />
+  <Directory>C:\My Paratext Projects\CFMBIV</Directory>
+  <TextHasChanged>F</TextHasChanged>
+  <LastBackedUp>2014Aug07</LastBackedUp>
+  <BooksPresent>000000000000000000000000000000000000000111111111111111111111111111000000000000000000000000000000000000000000000000000000000</BooksPresent>
+  <Naming PrePart="" PostPart="CFMBIV.SFM" BookNameForm="41MAT" ChapterNumberForm="" />
+</ScriptureText>
