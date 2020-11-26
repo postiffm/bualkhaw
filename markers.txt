@@ -1,12 +1,12 @@
 id	27
 h	27
-mt	27
+mt	27	<<== This marker is not in the BI approved list
 mt2	26
 toc3	27
-im	81
+im	81	<<== This marker is not in the BI approved list
 ip	120
 c	260
-s	798
+s	798	<<== This marker is not in the BI approved list
 r	263
 p	7957
 v	7957
