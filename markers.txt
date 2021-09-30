@@ -30,7 +30,7 @@ r	273
 li1	8
 tl	1
 tl*	1
-mt	27	<<== This marker is not in the BI approved list
+mt	27
 mt2	26
 im	81	<<== This marker is not in the BI approved list
-s	798	<<== This marker is not in the BI approved list
+s	798
